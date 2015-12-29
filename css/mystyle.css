@@ -1,0 +1,90 @@
+.linkedin{
+    width: 400px;
+    border-radius:65%;
+}
+.navbar-default{
+    background-color: black;
+}
+#portfolio{
+    background-color: black;
+}
+.pink, .btn-success{
+    background-color: hotpink;
+}
+h2{
+    color: white;
+}
+#about{
+    background-color: white;
+
+}
+footer .black{
+    background-color:black;
+}
+footer .footer-below{
+    background-black;
+}
+.black,.portfolio{
+    color: black;
+}
+#about{
+    background-color: black;
+}
+/* skills section */
+
+.skills ul{
+    list-style-type: none;
+
+    
+}
+.skills li{
+    display: inline;
+}
+.skills img{
+    width: 350px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 20%;
+    
+}
+#skills {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.success{
+    background-color: hotpink;
+    padding:20px;
+}
+/* Blog */
+
+.blog_images ul{
+    display: inline;
+}
+/* Resume */
+
+h2.black-2{
+    
+    text-align: center;
+}
+.black-2{
+    color:white;
+}
+
+#resume{
+    background-color: black;
+}
+
+
+.skill-section,.education-section li, .projects li,.work-section li, p{
+    color: white;
+    list-style-type: none;
+    letter-spacing: 2px;
+    padding: 10px;
+
+}
+ .languages li{
+    display:inline;
+    color: white;
+    letter-spacing: 4,px;
+    font-size: 20px;
+}
